@@ -1,5 +1,6 @@
 import'package:flutter/material.dart';
 //import 'package:nasa_apis/nasa_apis.dart';
+import 'package:http/http.dart' as http;
 
 class LatestPage extends StatefulWidget{
   const LatestPage({super.key});
@@ -10,6 +11,9 @@ class LatestPage extends StatefulWidget{
 
 class _LatestPageState extends State<LatestPage> {
 
+  Future<http.Response> fetchAlbum() {
+    return http.get(Uri.parse('https://images-api.nasa.gov/search?q=titan'));
+  }
 
   @override
   Widget build(BuildContext context){
