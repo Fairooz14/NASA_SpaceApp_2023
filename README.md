@@ -16,6 +16,6 @@ Beginner:<br>
 Intermediate:<br>
      This round will be the creative stage. Players need to find a way to survive on Titan. This locked initially.
 
- ## Details Video 
+ ## Detailed Video 
  [Titan Trivia:3023 Explanation!](https://youtu.be/MyXgpcYsAKw?si=KzIVJxdJGKz6oFem)
 
