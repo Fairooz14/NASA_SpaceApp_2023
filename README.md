@@ -1,6 +1,6 @@
-# trivia
+# Titan Trivia: 3023
 
-A new Flutter project.
+Titan City:3023 is a thousand year mission. Titan is the largest moon of Saturn and one of the most intriguing objects of our solar system. The game will help our gamer to explore the mysteries of the enigmatic moon , including its atmosphere , surface features and potential for harboring life. There are several obstacles in building a habitable environment for Humans. These obstacles are the main challenges . In order to overcome the challenges, we have build a game to so that new generation could learn about Titan and generate creative idea to make the environment of Titan livable.
 
 ## Getting Started
 
