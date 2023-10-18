@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:page_transition/page_transition.dart';
+import 'package:trivia/pages/beginner_page.dart';
 import 'package:trivia/pages/intermediate_page.dart';
 
 
@@ -10,8 +11,6 @@ class LobbyPage extends StatelessWidget{
     print("Beginner Tapped!!");
   }
 
-
-
   @override
   Widget build(BuildContext context){
 
@@ -21,6 +20,16 @@ class LobbyPage extends StatelessWidget{
         PageTransition(
           child: IntermediatePage(),
           type: PageTransitionType.rightToLeft,
+        ),
+      );
+    }
+
+    void beginnerPage(){
+      Navigator.push(
+        context,
+        PageTransition(
+            child: BeginnerPage(),
+            type: PageTransitionType.rightToLeft,
         ),
       );
     }

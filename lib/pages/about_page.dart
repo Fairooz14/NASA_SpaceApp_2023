@@ -9,13 +9,7 @@ class AboutPage extends StatelessWidget{
   @override
   Widget build(BuildContext context){
 
-    /*void  startpage(){
-      Navigator.push(
-          context,
-          MaterialPageRoute(
-            builder:(context)=> const StartPage(),
-          ));
-    }*/
+
     void startpage(){
       Navigator.push(context,
           PageTransition(
