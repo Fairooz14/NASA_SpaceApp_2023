@@ -12,10 +12,12 @@ Beginner:<br>
 - There are 10 coins for each right answer in 15 seconds.
 - Players will not gain any coins if they cannot answer correctly in 15 seconds.
 - Each star costs 10 coins. Players can buy a star if they have 10 coins.
+
   <br>
   Intermediate:<br>
   This round will be the creative stage. Players need to find a way to survive on Titan. This locked initially.
 
 ## Detailed Video
 [Titan Trivia:3023 Explanation!](https://youtu.be/MyXgpcYsAKw?si=KzIVJxdJGKz6oFem)
+
 
