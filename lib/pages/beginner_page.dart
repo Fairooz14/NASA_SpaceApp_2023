@@ -19,8 +19,8 @@ class BeginnerPage extends StatelessWidget{
     padding: const EdgeInsets.all(32),
     decoration: const BoxDecoration(
     image: DecorationImage(image: AssetImage("images/quiz_1.png"),fit: BoxFit.cover),
-       ),
-      ),
+    ),
+    ),
     );
   }
 }
