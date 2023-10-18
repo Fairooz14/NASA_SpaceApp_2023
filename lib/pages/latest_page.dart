@@ -1,8 +1,17 @@
 import'package:flutter/material.dart';
 
+//import 'package:nasa_apis/nasa_apis.dart';
+//import 'package:http/http.dart' as http;
 
-class LatestPage extends StatelessWidget{
+
+class LatestPage extends StatefulWidget{
   const LatestPage({super.key});
+
+  @override
+  State<LatestPage> createState() => _LatestPageState();
+}
+
+class _LatestPageState extends State<LatestPage> {
 
   @override
   Widget build(BuildContext context){
