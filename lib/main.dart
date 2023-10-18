@@ -19,6 +19,6 @@ class MyApp extends StatelessWidget {
         fontFamily: 'BrunoAceSC',
       ),
     );
-    //Color(0xFFF15087)
+
   }
 }
